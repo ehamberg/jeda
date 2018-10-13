@@ -1,0 +1,8 @@
+[package]
+name = "jeda"
+version = "0.1.0"
+authors = ["Erlend Hamberg <erlend@hamberg.no>"]
+license = "BSD-3-Clause OR Apache-2.0"
+
+[dependencies]
+hyper = "0.12"
